@@ -1,4 +1,4 @@
-# Complete AI-Powered Development Environment Setup
+# Complete AI-Powered Development Environment Setup (Non-NIST)
 
 A comprehensive guide for setting up a modern Mac development environment with AI integration and multi-window workflow.
 
